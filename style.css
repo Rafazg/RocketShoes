@@ -6,7 +6,6 @@
     box-sizing: border-box;
 }
 body{
-    position: relative;
     background-color: #ECECED;
     height: 1080px;
 }
@@ -57,28 +56,61 @@ input{
 }
 /*===== Header menu =====*/
 
-main .graybox{
+/*===== Aside Title =====*/
+.box{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 50px;
+    height: 500px;
+    width: 400px;
+}
+.title{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    width: 500px;    
+}
+.t1, .t2, .t3, .t4{
+    font-size: 66px;
+    
+}
+.t1{
+    margin-right: 210px;
+}
+.t2{
+    margin-right: 90px; 
+}
+.t4{
+    margin-right: 260px;
+}
+.t5{
+    font-family:'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+/*===== Aside Title =====*/
+
+/*===== Main contents =====*/
+.main-img{
+    background-color: #C4C4C4;
+    margin-left: 500px;
+    width: 840px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.gallery{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 10px;
     background-color: #C4C4C4;
-    width: 890px;
-    height: 150vh;
-    margin-top: -15px;
-    margin-left: 470px;    
+    margin-left: 500px;
+    width: 840px;
+    height: 350px;
 }
-
-
-main .text{
-    position: absolute;
-    display: flex;
-    margin-left: 70px;
-    margin-top: 100px;
-    width: 272px;
-    height: 272px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    font-size: 60px;
-    text-align: left;
-
-}
+/*===== Main contents =====*/

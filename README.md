@@ -1,7 +1,8 @@
 # RocketShoes
 Project to create a sneaker sample page
 
-exercise proposed by a bootcamp to put into practice the contents studied
+exercise proposed by a bootcamp to put into practice the contents studied 
+with the following technologies: HTML, CSS.
 
 * Project under development
 

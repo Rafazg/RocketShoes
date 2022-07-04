@@ -13,3 +13,8 @@ with the following technologies: HTML, CSS.
 * Update 02/07/2022
   - Added a title informing the value of the product
   - Added buy button below price title
+  
+* Update 04/07/2022
+  - Added social media links for contact, product preview video and learn more button, in the footer area of the page
+
+

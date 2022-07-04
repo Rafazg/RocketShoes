@@ -150,3 +150,46 @@ input{
     height: 350px;
 }
 /*===== Main contents =====*/
+
+/*===== Footer contents =====*/
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+}
+.links ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+footer .links ul li{
+    list-style: none;
+}
+footer .links ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color:#000000
+}
+footer video{
+    margin-left: 25px;
+    border-radius: 35px;
+}
+footer .boxexplore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25px;
+    border-radius: 10px;
+    background-color: #000000e3;
+    width: 200px;
+    height: 100px;
+}
+footer .boxexplore p{
+    color: #ECECED;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+/*===== Footer contents =====*/

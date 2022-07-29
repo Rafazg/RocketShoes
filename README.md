@@ -42,6 +42,6 @@ Status: Completed ✔️
     <td>HTML</td>
     <td>CSS</td>
   </tr>
-  <td></td>
-  <td></td>
+  <td>41,8%</td>
+  <td>58,2%</td>
 </table>

@@ -1,20 +1,47 @@
 # RocketShoes
-Project to create a sneaker sample page
+## Project to create a sneaker sample page
 
-exercise proposed by a bootcamp to put into practice the contents studied 
-with the following technologies: HTML, CSS.
+### exercise proposed by a bootcamp to put into practice the contents studied
 
-* Project under development
+Status: Completed ✔️
 
-* Update 01/07/2022
+
+# Development history
+
+<table>
+  <tr>
+    <td>01/07/2022</td>
+  </tr>
+</table>
+
   - Added a sample area with product photos (tennis).
   - Added product title and description next to photos.
   
-* Update 02/07/2022
+  <table>
+  <tr>
+    <td>02/07/2022</td>
+  </tr>
+</table>
+
   - Added a title informing the value of the product
   - Added buy button below price title
   
-* Update 04/07/2022
+  
+  <table>
+  <tr>
+    <td>04/07/2022</td>
+  </tr>
+</table>
+
   - Added social media links for contact, product preview video and learn more button, in the footer area of the page
 
 
+## Technologies Used:
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+  </tr>
+  <td></td>
+  <td></td>
+</table>
